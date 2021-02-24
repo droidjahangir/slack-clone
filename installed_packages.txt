@@ -1,0 +1,9 @@
+npx create-react-app slack-clone
+
+npm install @material-ui/core
+
+npm install firebase
+
+sudo npm install -g firebase-tools
+
+npm install react-router-dom
