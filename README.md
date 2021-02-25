@@ -1,5 +1,5 @@
 ## Project home page
-![Landing page](./landing-page.png)
+![Landing page](./slack-landing-page.png)
 
 # Getting Started with Create React App
 
