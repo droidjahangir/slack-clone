@@ -1,4 +1,4 @@
-# Project home page
+## Project home page
 ![Landing page](./landing-page.png)
 
 # Getting Started with Create React App
